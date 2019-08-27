@@ -1,6 +1,10 @@
 [//]: # (title: Upgrade Notes)
 [//]: # (auxiliary-id: Upgrade Notes)
 
+## Changes from 2019.1.2 to 2019.1.3
+
+No noteworthy changes.
+
 ## Changes from 2019.1.1 to 2019.1.2
 
 <anchor name="running-builds-node-deprecated"/>
