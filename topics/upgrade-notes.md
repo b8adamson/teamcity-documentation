@@ -5,8 +5,7 @@
 
 ### Bundled Tools Updates
 
-* The bundled .NET Tools (dotCover CLT and ReSharper CLT) have been upgraded to version 2019.2.1.   
-Note that since version 2019.2 dotCover drops support of [Code Coverage configuration using Test Settings](https://docs.microsoft.com/en-us/previous-versions/dd504821(v=vs.140)): `.testsettings` files are no longer supported.
+* The bundled ReSharper Command Line Tools (Inspections and Duplicates Finder) have been upgraded to version 2019.2.1.
 
 ## Changes from 2019.1.1 to 2019.1.2
 
